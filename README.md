@@ -207,25 +207,6 @@ ruff check .
 ruff format .
 ```
 
-### Testing
-```bash
-pip install pytest
-pytest tests/
-```
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{gpfq2023,
-  title={A Greedy Algorithm for Quantizing Neural Networks},
-  author={Research Team},
-  journal={Neural Network Quantization},
-  year={2023}
-}
-```
-
 ## License
 
 MIT License - see LICENSE file for details.
